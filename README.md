@@ -1,6 +1,7 @@
 # OpenWeatherMap API Data Pipeline
 
 This project involves building a data pipeline to collect weather data from the OpenWeatherMap API, preprocessing the data, training multiple machine learning models, and deploying the best-performing model in a web application. The entire pipeline is orchestrated using Apache Airflow with regular updates from the API.
+![Alt text](archi.png)
 
 ## Repository Structure
 
